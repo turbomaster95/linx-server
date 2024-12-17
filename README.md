@@ -8,7 +8,7 @@ Self-hosted file/media sharing website.
 Yes, though the repo may be old, it's still active and I'll try and fix any major issues that occur with my limited time.
 
 ### Demo
-You can see what it looks like using the demo: [https://put.icu/](https://put.icu/)
+You can see what it looks like using the demo: [https://shr.coderrrrr.site/](https://shr.coderrrrr.site/)
 
 
 ### Clients
